@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-
+gem "pkg-config"
 gem 'rspec'
 gem 'pry'
-gem 'nokogiri', '~> 1.10', '>= 1.10.4'
+gem 'nokogiri'
 gem 'w3c_validators'
